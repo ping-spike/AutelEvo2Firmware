@@ -1,8 +1,40 @@
-# Autel Evo II v1 and Autel Evo II v2 Firmware Archive
+# Autel Evo II v1, v2 and v3 Firmware Archive
 
-A repo containing all firmware binaries for the Autel Evo II v1 and v2 drones.
+A repo containing all firmware binaries for the Autel Evo II v1, v2 and v3 drones.
 
-NOTE: The v1 and v2 firmwares are NOT interchangable or compatible with each other. You must ONLY install the firmware for your model.
+NOTE: The v1, v2 and v3 firmwares are NOT interchangable or compatible with each other. You must ONLY install the firmware for your model.
+
+----
+
+
+## Autel Evo II v3 Firmware v1.0.10 
+
+<b>Released:</b> 16th November 2022
+
+<b>Filename:</b> `ModelC-A_FW_V1.0.10.zip`
+
+<b>MD5:</b> 2bc931a9d05e32c2cb1eb31dae4b1e5d
+
+<b>Download:</b> https://mega.nz/file/7k0TwLzK#hki0wp4IHZHD8lxWYaiQG7_C5mUIX-oxxrHLG6oA_es
+
+<b>Release Notes:</b> [View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v3-firmware-v1010)
+
+
+----
+
+
+## Autel Evo II v2 Firmware v2.3.23 
+
+<b>Released:</b> 7th July 2022
+
+<b>Filename:</b> `Model-C_WiMax8020_FW_v2.3.23`
+
+<b>MD5:</b> b6b516dc2ad7738fe5daa26f6245e80b
+
+<b>Download:</b> https://mega.nz/file/P40H3aqD#oIcNH8nVtRuVC6Gs4CSWMnJLuVCjMJiDMlgVGqu4bso
+
+<b>Release Notes:</b> [View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v2-firmware-v2323)
+
 
 ----
 
@@ -18,6 +50,38 @@ NOTE: The v1 and v2 firmwares are NOT interchangable or compatible with each oth
 <b>Download:</b> https://mega.nz/file/6wkylA5A#f6vWB4xJsif0nTeSaOwWNe-yhsUUyLOhaYzjPFQVwlg
 
 <b>Release Notes:</b> [View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v2-firmware-v2131)
+
+
+----
+
+
+## Autel Evo II v1 Firmware v2.7.37
+
+<b>Released:</b> 3rd November 2022
+
+<b>Filename:</b> `Model-C_FW_V2.7.37.bin`
+
+<b>MD5:</b> 69cc905a6730b5ee277fd5d4d4aabbdf
+
+<b>Download:</b> https://mega.nz/file/Ll1SHRaK#iuSfyJer_3qvk7tKHZJrCsZcBmJw8_3w7aLdkp2RWYU
+
+<b>Release Notes:</b> [View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v1-firmware-v2737)
+
+
+----
+
+
+## Autel Evo II v1 Firmware v2.7.35
+
+<b>Released:</b> 3rd November 2022
+
+<b>Filename:</b> `Model-C_FW_V2.7.35.bin`
+
+<b>MD5:</b> 6292539e8342fd3e29d8973b8be88fec
+
+<b>Download:</b> https://mega.nz/file/bkUDSR4K#UbmVHtUenLWX-EzSzsqGM1_x7RsAhO3LidWQRHEYsOQ
+
+<b>Release Notes:</b> [View](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/ReleaseNotes.md#evo-ii-v1-firmware-v2735)
 
 
 ----

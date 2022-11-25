@@ -1,6 +1,52 @@
-# Autel Evo 2 - Firmware Release Notes
+# Autel Evo II v1, v2 and v3 Firmware Release Notes
 
-Documentation highlighting all bug fixes and new features for each firmware release.
+Documenting the bug fixes and new features for each firmware release.
+
+
+----
+
+
+## Evo II v3 Firmware v1.0.10
+
+<b>Released:</b> 16th November 2022
+
+<b>Filename:</b> [ModelC-A_FW_V1.0.10.zip](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#autel-evo-ii-v3-firmware-v1010)
+
+<b>New Features:</b>
+
+* <i>(none)</i>
+
+<b>Bug Fixes and Optimizations:</b>
+
+* Fixed the micro SD card format incompatibility issue on Mac
+* Fixed the random gimbal vibration issue
+* Fixed the 7.9 inch Smart Controller charging issue
+
+<b>Notes:</b>
+
+* To support all the new features, please update the Autel Explorer App to V3.0.21 or newer.
+
+
+----
+
+
+## Evo II v2 Firmware v2.3.23
+
+<b>Released:</b> 7th July 2022
+
+<b>Filename:</b> [Model-C_WiMax8020_FW_v2.3.23.zip](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#autel-evo-ii-v2-firmware-v2323)
+
+<b>New Features:</b>
+
+* Support new version 640T gimbal
+
+<b>Bug Fixes and Optimizations:</b>
+
+* Fixed and optimized known issues
+
+<b>Notes:</b>
+
+* To support all the new features, please upgrade the Autel Explorer App to the latest version.
 
 
 ----
@@ -21,13 +67,61 @@ Documentation highlighting all bug fixes and new features for each firmware rele
 * Added A/B button flight speed change option (Standard <-> Ludicrous)
 * Added EVO II V2 support on V2.1.31
 
-
 <b>Bug Fixes and Optimizations:</b>
 
 * Optimized No-Fly zone notifications
 * Smoother gimbal pitch start and stop adjustment
 * Increased the gimbal pitch sensitivity to support super slow movement.
 * Standardized the GPS coordinate system (WGS84)
+
+
+----
+
+
+## Evo II v1 Firmware v2.7.37
+
+<b>Released:</b> 3rd November 2022
+
+<b>Filename:</b> [Model-C_FW_V2.7.37.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#autel-evo-ii-v1-firmware-v2737)
+
+<b>New Features:</b>
+
+* <i>(none)</i>
+
+<b>Bug Fixes and Optimizations:</b>
+
+* Fixed the battery false alarm that would be triggered because of an incorrect temperature measurement
+
+<b>Notes:</b>
+
+* We recommend all EVO II V1 users upgrade to this version. Users can update the firmware either by OTA or manual update (Standard RC Only). If you have multiple batteries, please ensure to update the firmware on all of them.
+* V2.7.37 is a patch to solve the battery issue only. Before updating to V2.7.37, please ensure you are on the V2.7.35.
+
+
+----
+
+
+## Evo II v1 Firmware v2.7.35
+
+<b>Released:</b> 3rd November 2022
+
+<b>Filename:</b> [Model-C_FW_V2.7.35.bin](https://github.com/ping-spike/AutelEvo2Firmware/blob/master/README.md#autel-evo-ii-v1-firmware-v2735)
+
+<b>New Features:</b>
+
+* Added the elevation optimization option in rectangular and polygon missions
+
+<b>Bug Fixes and Optimizations:</b>
+
+* Optimized the EVO II V2 photo download speed
+* Fixed the camera issue on FLIR Boson 640R
+* Fixed the GPS time stamp error in PPK mode (for EVO II RTK only)
+* Fixed other minor issues
+
+<b>Notes:</b>
+
+* To support all the new features, please upgrade the Autel Explorer App to iOS V1.12.1, and Andriod V1.1.8.3 or newer.
+
 
 ----
 
